@@ -1,2 +1,5 @@
 # SASEM
-SASEM: Shape and Semantic Enhancement Module for RGB-Thermal Semantic Segmentation
+SASEM: On Exploring Shape and Semantic Enhancements for RGB-X Semantic Segmentation
+
+由于文件较多，数据较大，我们整理后的结果都统一放到了网盘下。
+- Due to the large number of files and large amount of data, the results we have compiled have been uniformly stored on the network disk.
